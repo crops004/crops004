@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Joe. I'm working as a data scientist in the energy industry, and currently working on my MS in Data Science at Colorado Boulder.
+
+- 🔭 I’m currently working on ... integrating multiple databases
+
 
 <!--
 **crops004/crops004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
